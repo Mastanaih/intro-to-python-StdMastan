@@ -1,7 +1,7 @@
 # sum_of_two_numbers.py
 
 def sum_two_numbers(a: int, b: int) -> int:
-    # Your code here
+    return a+b
     pass
 
 if __name__ == "__main__":
